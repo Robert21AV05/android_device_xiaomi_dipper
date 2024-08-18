@@ -14,4 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dipper.mk
+    $(LOCAL_DIR)/halcyon_dipper.mk
+
+COMMON_LUNCH_CHOICES := \
+    halcyon_dipper-user \
+    halcyon_dipper-userdebug \
+    halcyon_dipper-eng

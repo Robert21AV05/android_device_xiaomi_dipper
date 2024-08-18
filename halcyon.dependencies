@@ -3,4 +3,10 @@
     "repository": "android_device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common"
   }
+   {
+      "repository": "jjpprrrr/prelude-clang",
+      "target_path": "prebuilts/clang/host/linux-x86/clang-prelude",
+      "branch": "master",
+      "remote": "gitlab"
+   }
 ]
